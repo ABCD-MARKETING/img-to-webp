@@ -14,10 +14,19 @@ A Claude skill for converting and optimizing images to WebP format with batch pr
 
 ## Installation
 
+**A. Claude AI** (Claude in the cloud )
+
 1. Download `image-to-webp.skill`
 2. Open Claude.ai
 3. Go to Settings → Skills
 4. Upload the `.skill` file
+
+**B. Claude Code or CLI (local installation)**
+
+1. Download `image-to-webp.skill`
+2. Change the file extension to zip `image-to-webp.skill`  → `image-to-webpage.zip` 
+3. De compress the .zip in the ` .claude/sillks/` folder
+4. remove the zip file
 
 ## Usage Examples
 
@@ -73,4 +82,4 @@ Issues and pull requests welcome!
 
 ## Author
 
-Created by Daniel Serrano for Griddo
+Created by Daniel Serrano for Claude Skills
